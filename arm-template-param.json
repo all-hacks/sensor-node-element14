@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "iotHubName": {
-      "value": "vc-samplehub"
+      "value": "your IoT Hub name"
     },
     "resourcePrefix": {
-      "value": "vciot"
+      "value": "iot"
     },
     "functionSku": {
       "value": "Free"
