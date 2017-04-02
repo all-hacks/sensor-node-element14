@@ -1,0 +1,15 @@
+{
+  "name": "edison-nodejs-sensor-node",
+  "version": "1.0.0",
+  "description": "A sample Node.js app that blinks the LED connected to Intel Edison board",
+  "main": "app.js",
+  "author": "vincent wong",
+  "license": "MIT",
+  "dependencies": {
+    "azure-iot-device": "^1.0.17",
+    "azure-iot-device-mqtt": "^1.0.17",
+    "mraa": "^1.5.1",
+    "jsupm_loudness": "^1.0.2-src",
+    "jsupm_grove": "^1.0.2-src"
+  }
+}

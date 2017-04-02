@@ -1,0 +1,5 @@
+{
+  "project_folder": "./node-edison-sensor-node",
+  "start_file": "app.js",
+  "ssh_port": 22
+}
