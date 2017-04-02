@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 services: iot-hub, iot-suite
 platforms: Nodejs
@@ -41,3 +42,6 @@ Run the sample application on the device and read messages persisted in the Azur
 ```bash
 gulp run --read-storage
 ```
+=======
+# sensor-node-element14
+>>>>>>> 3ec70d4fdd8f3a70f1b595a14b16b22785ab4d81
